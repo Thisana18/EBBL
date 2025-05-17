@@ -1,5 +1,6 @@
 1.Enables movement and task completion without direct human control.
-2.Can potentially optimize workflows and reduce human error in various applications.
+2.Can potentially optimize workflows and reduce human error in various
+applications.
 3.May offer increased efficiency and productivity in transportation and industry.
 4.Holds the promise of enhancing safety in hazardous environments or tasks.
 5.Often utilizes advanced sensors and intelligent control systems.
